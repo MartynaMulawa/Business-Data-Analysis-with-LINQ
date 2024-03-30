@@ -13,7 +13,7 @@ Showing employees for each region.
 Displaying employee counts for each region.
 Analyzing order statistics for each employee.
 
-<h3>Data Schema:</h3>
+<h3>Database Schema:</h3>
 
 
 ![schemat](https://github.com/MartynaMulawa/Business-Data-Analysis-with-LINQ/assets/115184864/f2735d8e-f9ff-4cab-ad4b-118dafba7b7b)
