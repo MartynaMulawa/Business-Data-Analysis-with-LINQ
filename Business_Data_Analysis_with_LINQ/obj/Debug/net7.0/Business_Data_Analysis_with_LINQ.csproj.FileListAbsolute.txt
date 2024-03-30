@@ -1,0 +1,14 @@
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\bin\Debug\net7.0\Business_Data_Analysis_with_LINQ.exe
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\bin\Debug\net7.0\Business_Data_Analysis_with_LINQ.deps.json
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\bin\Debug\net7.0\Business_Data_Analysis_with_LINQ.runtimeconfig.json
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\bin\Debug\net7.0\Business_Data_Analysis_with_LINQ.dll
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\bin\Debug\net7.0\Business_Data_Analysis_with_LINQ.pdb
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\obj\Debug\net7.0\Business_Data_Analysis_with_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\obj\Debug\net7.0\Business_Data_Analysis_with_LINQ.AssemblyInfoInputs.cache
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\obj\Debug\net7.0\Business_Data_Analysis_with_LINQ.AssemblyInfo.cs
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\obj\Debug\net7.0\Business_Data_Analysis_with_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\obj\Debug\net7.0\Business_Data_Analysis_with_LINQ.dll
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\obj\Debug\net7.0\refint\Business_Data_Analysis_with_LINQ.dll
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\obj\Debug\net7.0\Business_Data_Analysis_with_LINQ.pdb
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\obj\Debug\net7.0\Business_Data_Analysis_with_LINQ.genruntimeconfig.cache
+C:\Users\Martyna\Downloads\Business_Data_Analysis_with_LINQ\obj\Debug\net7.0\ref\Business_Data_Analysis_with_LINQ.dll

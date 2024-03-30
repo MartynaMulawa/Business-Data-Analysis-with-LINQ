@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Martyna\\Downloads\\Business_Data_Analysis_with_LINQ\\Business_Data_Analysis_with_LINQ.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Martyna\\Downloads\\Business_Data_Analysis_with_LINQ\\Business_Data_Analysis_with_LINQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Martyna\\Downloads\\Business_Data_Analysis_with_LINQ\\Business_Data_Analysis_with_LINQ.csproj",
+        "projectName": "Business_Data_Analysis_with_LINQ",
+        "projectPath": "C:\\Users\\Martyna\\Downloads\\Business_Data_Analysis_with_LINQ\\Business_Data_Analysis_with_LINQ.csproj",
+        "packagesPath": "C:\\Users\\Martyna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Martyna\\Downloads\\Business_Data_Analysis_with_LINQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Martyna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
